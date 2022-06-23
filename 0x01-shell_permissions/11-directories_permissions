@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 111 ./11-directories_permissions
+umask a=r ./11-directories_permissions
